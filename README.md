@@ -2,7 +2,7 @@
 ![3D Website](https://i.ibb.co/Krk39Cf/Thumbnali.png)
 
 ## Introduction
-Many large corporations already use 3D graphics to showcase their products. Learn how to build your own ThreeJS 3D product website and infuse it with the power of artificial intelligence! 
+Many large corporations already use 3D graphics to showcase their products. Learning how to build our own ThreeJS 3D product website and infuse it with the power of artificial intelligence! 
  
 Techstacks Used:
 - ThreeJS - a powerful 3D graphics library for rendering and animating the 3D model
